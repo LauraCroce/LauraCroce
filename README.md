@@ -1,16 +1,28 @@
-## Hi there 👋
+# Ciao! 👋 Sono Laura Croce
 
-<!--
-**LauraCroce/LauraCroce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Studentessa di **Informatica e Tecnologie per la Produzione del Software (ITPS)** presso l'Università di Bari
 
-Here are some ideas to get you started:
+💻 Appassionata di sviluppo software e web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologie e Competenze
+
+**Linguaggi di programmazione:**
+- Java ☕
+- JavaScript 
+- HTML5 & CSS3
+
+**Database:**
+- MySQL
+
+**Design & Prototipazione:**
+- Figma
+- Canva
+
+## 📫 Contatti
+
+- 📧 Email: lauracroce98@gmail.com
+- 💼 GitHub: [@LauraCroce](https://github.com/LauraCroce)
+
+---
+
+*"Il codice è poesia in movimento"* ✨
