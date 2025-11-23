@@ -21,7 +21,7 @@
 
 ## 📚 Progetti in Evidenza
 
-- 🧪 [**TestMaster**](https://github.com/LauraCroce/TestMaster-ITSS)) - Software Testing Project (ITSS)
+- 🧪 [**TestMaster**](https://github.com/LauraCroce/TestMaster-ITSS) - Software Testing Project (ITSS)
 
 
 ## 📫 Contatti
