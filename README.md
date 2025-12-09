@@ -22,6 +22,7 @@
 ## 📚 Progetti in Evidenza
 
 - 🧪 [**TestMaster**](https://github.com/LauraCroce/TestMaster-ITSS) - Software Testing Project (ITSS)
+- 👩🏻‍💻 [**Autoscuola**] (https://github.com/LauraCroce/Autoscuola) - Laboratorio di Informatica
 
 
 ## 📫 Contatti
