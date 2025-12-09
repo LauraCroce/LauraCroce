@@ -22,7 +22,9 @@
 ## 📚 Progetti in Evidenza
 
 - 🧪 [**TestMaster**](https://github.com/LauraCroce/TestMaster-ITSS) - Software Testing Project (ITSS)
-- 👩🏻‍💻 [**Autoscuola**] (https://github.com/LauraCroce/Autoscuola) - Laboratorio di Informatica
+- 🚗 [**Progetto Autoscuola**](https://github.com/LauraCroce/Autoscuola)
+Software in linguaggio **C** sviluppato per l’esame di *Laboratorio di Informatica* con il **Prof. Loglisci**.  
+Gestione allievi, esami e lezioni con documentazione automatica tramite **Doxygen**.
 
 
 ## 📫 Contatti
