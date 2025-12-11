@@ -23,10 +23,14 @@
 
 ## 📚 Progetti in Evidenza
 
-- 🧪 [**TestMaster**](https://github.com/LauraCroce/TestMaster-ITSS) - Software Testing Project (ITSS)
+- 🧪 [**TestMaster**](https://github.com/LauraCroce/TestMaster-ITSS) - Progetto sviluppato per l'esame di *Integrazione e Test di Sistemi Software*
+Applicazione sviluppata per la gestione e l’automazione dei casi di test in ambito QA.  
+Include pianificazione test, gestione risultati, tracciamento dei bug e reportistica automatica.  
 - 🚗 [**Progetto Autoscuola**](https://github.com/LauraCroce/Autoscuola)
 Software in linguaggio **C** sviluppato per l’esame di *Laboratorio di Informatica* con il **Prof. Loglisci**.  
 Gestione allievi, esami e lezioni con documentazione automatica tramite **Doxygen**.
+- 🧠 **[MindBalance](https://github.com/LauraCroce/MindBalance)** – *Progetto di interfaccia utente per il benessere mentale.*  
+Analisi dei task, personas e prototipi a bassa e alta fedeltà realizzati con Figma, Draw.io e PowerPoint.
 
 
 ## 📫 Contatti
